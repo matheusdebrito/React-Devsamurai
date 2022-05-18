@@ -1,6 +1,6 @@
 {
-  "short_name": "Minha Aplicação",
-  "name": "Aplicação do Curso",
+  "short_name": "Aplicação React",
+  "name": "Template básico Dev Samurai",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#f37272",
   "background_color": "#ffffff"
 }
